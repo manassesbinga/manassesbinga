@@ -13,7 +13,7 @@ software engineer.
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manassescahunda)
 
-2019 → Node.js, PostgreSQL, MySQL — primeiros passos, REST APIs do zero.
+2019 → C# , mysql  , java ,Node.js, PostgreSQL, MySQL — primeiros passos, REST APIs do zero.
 
 2020 → React, Python (Django/Flask), MongoDB — full stack consolidado.
 
