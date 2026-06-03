@@ -19,6 +19,7 @@ typescript · go · next.js · supabase
 
 
 
+![https://github.com/manassesbinga/manassesbinga/blob/main/stack_architecture.svg](https://github.com/manassesbinga/manassesbinga/blob/main/stack_architecture.svg)
 
 
 "How will we ever know what we are truly programmed for. When you think you know everything, you realize you know nothing. This is the dilemma of growth: the more technologies you master, the more you realize how much you still don't know.
