@@ -10,22 +10,15 @@ software engineer. building [koneta](https://koneta.vercel.app) — api gateway.
 
 
 typescript · go · next.js · supabase
-```
+
+
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=500&lines=manassesbinga;software+engineer;building+in+public)](https://git.io/typing-svg)
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=manassesbinga.manassesbinga&color=0ea5e9&style=flat-square&logo=github)
 
 ---
 
-**now**
-- shipping [koneta](https://github.com/manassesbinga/koneta)
-- learning distributed systems
-
----
-
-![stats](https://github-readme-stats.vercel.app/api?username=manassesbinga&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manassesbinga&layout=compact&theme=github_dark_dimmed&hide_border=true)
-
----
-
+software engineer. building [koneta](https://koneta.vercel.app) — api gateway.
 ![snake](https://raw.githubusercontent.com/manassesbinga/manassesbinga/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![snake](https://raw.githubusercontent.com/manassesbinga/manassesbinga/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
