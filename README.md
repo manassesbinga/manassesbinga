@@ -4,7 +4,8 @@
 ![https://profile-counter.glitch.me/manassesbinga/c.svg](https://github.com/manassesbinga/profile/blob/main/matrix.svg)
 
 
-software engineer. [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=500&lines=manassesbinga;software+engineer;building+in+public)](https://git.io/typing-svg)
+software engineer. 
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=500&lines=manassesbinga;software+engineer;building+in+public)](https://git.io/typing-svg)
 
 
 
