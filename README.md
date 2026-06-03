@@ -19,4 +19,4 @@ typescript · go · next.js · supabase
 In April 2026, I chose to selling what I already knew."
 
 
-[https://github.com/manassesbinga/manassesbinga/blob/main/hello_world_pixel.svg](https://github.com/manassesbinga/manassesbinga/blob/main/hello_world_pixel.svg)
+![https://github.com/manassesbinga/manassesbinga/blob/main/hello_world_pixel.svg](https://github.com/manassesbinga/manassesbinga/blob/main/hello_world_pixel.svg)
