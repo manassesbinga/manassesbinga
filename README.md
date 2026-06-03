@@ -6,7 +6,7 @@
 
 software engineer. building [koneta](https://koneta.vercel.app) — api gateway.
 
-[https://profile-counter.glitch.me/manassesbinga/c.svg](https://github.com/manassesbinga/profile/blob/main/matrix.svg)
+![https://profile-counter.glitch.me/manassesbinga/c.svg](https://github.com/manassesbinga/profile/blob/main/matrix.svg)
 
 
 typescript · go · next.js · supabase
