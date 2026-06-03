@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 700" width="780" height="700">
+<defs>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff06" stroke-width="0.5"/>
+  </pattern>
+  <linearGradient id="scangrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#00ccff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00ccff" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#00ccff" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .tag{font-size:9px;fill:#ffffff55;font-family:monospace;letter-spacing:2px;}
+    .ybadge{font-size:9px;font-family:monospace;font-weight:bold;}
+    .ntitle{font-size:11px;font-family:monospace;font-weight:bold;}
+    .nsub{font-size:9px;font-family:monospace;}
+    @keyframes flow{0%{stroke-dashoffset:200;}100%{stroke-dashoffset:0;}}
+    @keyframes pulse{0%,100%{r:6;}50%{r:9;}}
+    @keyframes scanmove{0%{transform:translateY(-60px);}100%{transform:translateY(760px);}}
+    @keyframes blink{0%,49%{opacity:1;}50%,100%{opacity:0;}}
+    .fl{stroke-dasharray:6 4;animation:flow 2s linear infinite;fill:none;}
+    .dot1{animation:pulse 2s ease-in-out infinite;}
+    .dot2{animation:pulse 2.2s ease-in-out 0.3s infinite;}
+    .dot3{animation:pulse 1.8s ease-in-out 0.6s infinite;}
+    .dot4{animation:pulse 2.4s ease-in-out 0.9s infinite;}
+    .dot5{animation:pulse 2s ease-in-out 1.2s infinite;}
+    .dotnow{animation:pulse 1.5s ease-in-out infinite;}
+    .cursor{animation:blink 0.8s step-end infinite;}
+    .beam{animation:scanmove 4s linear infinite;}
+  </style>
+</defs>
+<rect width="780" height="700" fill="#09090f"/>
+<rect width="780" height="700" fill="url(#grid)"/>
+<rect class="beam" x="0" y="0" width="780" height="60" fill="url(#scangrad)" opacity="0.06"/>
+<rect x="10" y="10" width="760" height="680" fill="none" stroke="#00ccff22" stroke-width="1" rx="8"/>
+<path d="M10,30 L10,10 L30,10" fill="none" stroke="#00ccff" stroke-width="1.5"/>
+<path d="M750,10 L770,10 L770,30" fill="none" stroke="#00ccff" stroke-width="1.5"/>
+<path d="M10,670 L10,690 L30,690" fill="none" stroke="#00ccff" stroke-width="1.5"/>
+<path d="M750,690 L770,690 L770,670" fill="none" stroke="#00ccff" stroke-width="1.5"/>
+<text x="390" y="40" text-anchor="middle" font-family="monospace" font-size="13" fill="#00ccff" letter-spacing="6" font-weight="bold">FULL STACK ARCHITECTURE</text>
+<text x="390" y="56" text-anchor="middle" font-family="monospace" font-size="9" fill="#ffffff33" letter-spacing="4">2019 → 2026 · JOURNEY MAP</text>
+<!-- CLIENT LAYER -->
+<rect x="20" y="70" width="740" height="120" fill="#00ccff08" rx="4" stroke="#00ccff22" stroke-width="0.5"/>
+<text x="28" y="84" class="tag">CLIENT LAYER</text>
+<rect x="40" y="90" width="130" height="90" rx="6" fill="#0a1628" stroke="#61dafb" stroke-width="1.5"/>
+<rect x="40" y="90" width="130" height="6" rx="6" fill="#61dafb" opacity="0.8"/>
+<text x="105" y="115" text-anchor="middle" class="ntitle" fill="#61dafb">React / Next.js</text>
+<text x="105" y="130" text-anchor="middle" class="nsub" fill="#61dafb88">Frontend Framework</text>
+<rect x="50" y="140" width="50" height="14" rx="3" fill="#61dafb22" stroke="#61dafb44" stroke-width="0.5"/>
+<text x="75" y="151" text-anchor="middle" class="ybadge" fill="#61dafb">2020</text>
+<rect x="190" y="90" width="130" height="90" rx="6" fill="#0a1e1a" stroke="#00d4aa" stroke-width="1.5"/>
+<rect x="190" y="90" width="130" height="6" rx="6" fill="#00d4aa" opacity="0.8"/>
+<text x="255" y="115" text-anchor="middle" class="ntitle" fill="#00d4aa">React Native</text>
+<text x="255" y="130" text-anchor="middle" class="nsub" fill="#00d4aa88">Mobile Framework</text>
+<rect x="200" y="140" width="50" height="14" rx="3" fill="#00d4aa22" stroke="#00d4aa44" stroke-width="0.5"/>
+<text x="225" y="151" text-anchor="middle" class="ybadge" fill="#00d4aa">2021</text>
+<rect x="340" y="90" width="110" height="90" rx="6" fill="#1a0a1e" stroke="#e535ab" stroke-width="1.5"/>
+<rect x="340" y="90" width="110" height="6" rx="6" fill="#e535ab" opacity="0.8"/>
+<text x="395" y="115" text-anchor="middle" class="ntitle" fill="#e535ab">GraphQL</text>
+<text x="395" y="130" text-anchor="middle" class="nsub" fill="#e535ab88">API Query Layer</text>
+<rect x="355" y="140" width="80" height="14" rx="3" fill="#e535ab22" stroke="#e535ab44" stroke-width="0.5"/>
+<text x="395" y="151" text-anchor="middle" class="ybadge" fill="#e535ab">2022</text>
+<rect x="465" y="90" width="110" height="90" rx="6" fill="#0a1220" stroke="#007acc" stroke-width="1.5"/>
+<rect x="465" y="90" width="110" height="6" rx="6" fill="#007acc" opacity="0.8"/>
+<text x="520" y="115" text-anchor="middle" class="ntitle" fill="#4fc3f7">TypeScript</text>
+<text x="520" y="130" text-anchor="middle" class="nsub" fill="#4fc3f788">Type Safety</text>
+<rect x="475" y="140" width="80" height="14" rx="3" fill="#007acc22" stroke="#007acc44" stroke-width="0.5"/>
+<text x="515" y="151" text-anchor="middle" class="ybadge" fill="#4fc3f7">2021</text>
+<!-- flow lines client→api -->
+<line x1="105" y1="180" x2="105" y2="215" class="fl" stroke="#61dafb55" stroke-width="1.5"/>
+<line x1="255" y1="180" x2="255" y2="215" class="fl" stroke="#00d4aa55" stroke-width="1.5"/>
+<line x1="395" y1="180" x2="395" y2="215" class="fl" stroke="#e535ab55" stroke-width="1.5"/>
+<line x1="520" y1="180" x2="520" y2="215" class="fl" stroke="#4fc3f755" stroke-width="1.5"/>
+<!-- BACKEND LAYER -->
+<rect x="20" y="205" width="740" height="120" fill="#00ff8808" rx="4" stroke="#00ff8822" stroke-width="0.5"/>
+<text x="28" y="219" class="tag">API / BACKEND LAYER</text>
+<rect x="40" y="225" width="140" height="90" rx="6" fill="#0a1a0a" stroke="#68a063" stroke-width="1.5"/>
+<rect x="40" y="225" width="140" height="6" rx="6" fill="#68a063" opacity="0.8"/>
+<text x="110" y="250" text-anchor="middle" class="ntitle" fill="#68a063">Node.js / Express</text>
+<text x="110" y="265" text-anchor="middle" class="nsub" fill="#68a06388">REST API Server</text>
+<rect x="50" y="275" width="50" height="14" rx="3" fill="#68a06322" stroke="#68a06344" stroke-width="0.5"/>
+<text x="75" y="286" text-anchor="middle" class="ybadge" fill="#68a063">2019</text>
+<rect x="110" y="275" width="60" height="14" rx="3" fill="#68a06322" stroke="#68a06344" stroke-width="0.5"/>
+<text x="140" y="286" text-anchor="middle" class="ybadge" fill="#8bc34a">1º Stack!</text>
+<rect x="200" y="225" width="140" height="90" rx="6" fill="#1a1a0a" stroke="#ffd43b" stroke-width="1.5"/>
+<rect x="200" y="225" width="140" height="6" rx="6" fill="#ffd43b" opacity="0.8"/>
+<text x="270" y="250" text-anchor="middle" class="ntitle" fill="#ffd43b">Python</text>
+<text x="270" y="265" text-anchor="middle" class="nsub" fill="#ffd43b88">Django / Flask</text>
+<rect x="210" y="275" width="50" height="14" rx="3" fill="#ffd43b22" stroke="#ffd43b44" stroke-width="0.5"/>
+<text x="235" y="286" text-anchor="middle" class="ybadge" fill="#ffd43b">2020</text>
+<!-- flow lines api→data -->
+<line x1="110" y1="315" x2="110" y2="350" class="fl" stroke="#68a06355" stroke-width="1.5"/>
+<line x1="270" y1="315" x2="270" y2="350" class="fl" stroke="#ffd43b55" stroke-width="1.5"/>
+<!-- DATA LAYER -->
+<rect x="20" y="340" width="740" height="120" fill="#ff880008" rx="4" stroke="#ff880022" stroke-width="0.5"/>
+<text x="28" y="354" class="tag">DATA LAYER</text>
+<rect x="40" y="360" width="140" height="90" rx="6" fill="#0a0e1a" stroke="#336791" stroke-width="1.5"/>
+<rect x="40" y="360" width="140" height="6" rx="6" fill="#336791" opacity="0.8"/>
+<text x="110" y="385" text-anchor="middle" class="ntitle" fill="#5d9cec">PostgreSQL</text>
+<text x="110" y="400" text-anchor="middle" class="nsub" fill="#5d9cec88">Relational DB</text>
+<rect x="50" y="410" width="50" height="14" rx="3" fill="#33679122" stroke="#33679144" stroke-width="0.5"/>
+<text x="75" y="421" text-anchor="middle" class="ybadge" fill="#5d9cec">2019</text>
+<rect x="108" y="410" width="62" height="14" rx="3" fill="#f2911111" stroke="#f2911144" stroke-width="0.5"/>
+<text x="139" y="421" text-anchor="middle" class="ybadge" fill="#f29111">+ MySQL</text>
+<rect x="200" y="360" width="130" height="90" rx="6" fill="#0a1a0a" stroke="#4db33d" stroke-width="1.5"/>
+<rect x="200" y="360" width="130" height="6" rx="6" fill="#4db33d" opacity="0.8"/>
+<text x="265" y="385" text-anchor="middle" class="ntitle" fill="#4db33d">MongoDB</text>
+<text x="265" y="400" text-anchor="middle" class="nsub" fill="#4db33d88">NoSQL / Document</text>
+<rect x="210" y="410" width="50" height="14" rx="3" fill="#4db33d22" stroke="#4db33d44" stroke-width="0.5"/>
+<text x="235" y="421" text-anchor="middle" class="ybadge" fill="#4db33d">2020</text>
+<!-- flow lines data→infra -->
+<line x1="200" y1="460" x2="200" y2="490" class="fl" stroke="#ffffff22" stroke-width="1.5"/>
+<!-- INFRA LAYER -->
+<rect x="20" y="480" width="740" height="120" fill="#8800ff08" rx="4" stroke="#8800ff22" stroke-width="0.5"/>
+<text x="28" y="494" class="tag">INFRA / CLOUD LAYER</text>
+<rect x="40" y="500" width="140" height="90" rx="6" fill="#00111a" stroke="#2496ed" stroke-width="1.5"/>
+<rect x="40" y="500" width="140" height="6" rx="6" fill="#2496ed" opacity="0.8"/>
+<text x="110" y="525" text-anchor="middle" class="ntitle" fill="#2496ed">Docker</text>
+<text x="110" y="540" text-anchor="middle" class="nsub" fill="#2496ed88">Containers / K8s</text>
+<rect x="50" y="550" width="50" height="14" rx="3" fill="#2496ed22" stroke="#2496ed44" stroke-width="0.5"/>
+<text x="75" y="561" text-anchor="middle" class="ybadge" fill="#2496ed">2022</text>
+<rect x="200" y="500" width="150" height="90" rx="6" fill="#1a0e00" stroke="#ff9900" stroke-width="1.5"/>
+<rect x="200" y="500" width="150" height="6" rx="6" fill="#ff9900" opacity="0.8"/>
+<text x="275" y="525" text-anchor="middle" class="ntitle" fill="#ff9900">AWS / Azure / GCP</text>
+<text x="275" y="540" text-anchor="middle" class="nsub" fill="#ff990088">Cloud Platforms</text>
+<rect x="210" y="550" width="50" height="14" rx="3" fill="#ff990022" stroke="#ff990044" stroke-width="0.5"/>
+<text x="235" y="561" text-anchor="middle" class="ybadge" fill="#ff9900">2022</text>
+<!-- TIMELINE -->
+<line x1="598" y1="70" x2="598" y2="620" stroke="#ffffff15" stroke-width="1" stroke-dasharray="4 3"/>
+<circle class="dot1" cx="598" cy="115" r="6" fill="#68a063"/>
+<rect x="612" y="105" width="148" height="22" rx="3" fill="#68a06318" stroke="#68a06333" stroke-width="0.5"/>
+<text x="618" y="120" class="ybadge" fill="#68a063">2019 — Node.js + PostgreSQL</text>
+<circle class="dot2" cx="598" cy="175" r="5" fill="#ffd43b"/>
+<rect x="612" y="165" width="155" height="22" rx="3" fill="#ffd43b18" stroke="#ffd43b33" stroke-width="0.5"/>
+<text x="618" y="180" class="ybadge" fill="#ffd43b">2020 — React + Python + MongoDB</text>
+<circle class="dot3" cx="598" cy="255" r="5" fill="#61dafb"/>
+<rect x="612" y="245" width="155" height="22" rx="3" fill="#61dafb18" stroke="#61dafb33" stroke-width="0.5"/>
+<text x="618" y="260" class="ybadge" fill="#61dafb">2021 — TypeScript + React Native</text>
+<circle class="dot4" cx="598" cy="345" r="5" fill="#e535ab"/>
+<rect x="612" y="335" width="155" height="22" rx="3" fill="#e535ab18" stroke="#e535ab33" stroke-width="0.5"/>
+<text x="618" y="350" class="ybadge" fill="#e535ab">2022 — GraphQL + Docker + Cloud</text>
+<circle class="dot5" cx="598" cy="510" r="5" fill="#ff9900"/>
+<rect x="612" y="500" width="148" height="22" rx="3" fill="#ff990018" stroke="#ff990033" stroke-width="0.5"/>
+<text x="618" y="515" class="ybadge" fill="#ff9900">2024 — Full Stack consolidado</text>
+<circle class="dotnow" cx="598" cy="580" r="7" fill="#00ff88"/>
+<rect x="612" y="568" width="155" height="26" rx="3" fill="#00ff8830" stroke="#00ff8888" stroke-width="1"/>
+<text x="618" y="583" class="ybadge" fill="#00ff88">2026 — YOU ARE HERE</text>
+<text x="618" y="592" font-family="monospace" font-size="8" fill="#00ff8866">Full Stack Developer</text>
+<!-- STATUS BAR -->
+<rect x="20" y="620" width="740" height="50" rx="4" fill="#ffffff06" stroke="#ffffff11" stroke-width="0.5"/>
+<circle cx="45" cy="645" r="5" fill="#00ff88">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</circle>
+<text x="58" y="650" font-family="monospace" font-size="10" fill="#00ff88">ONLINE</text>
+<text x="130" y="643" font-family="monospace" font-size="9" fill="#ffffff44">STACKS:</text>
+<text x="130" y="655" font-family="monospace" font-size="9" fill="#ffffff66">React · Next.js · Node · Python · TS · GraphQL · Docker · K8s · AWS · MongoDB · PostgreSQL</text>
+<text x="680" y="643" text-anchor="middle" font-family="monospace" font-size="9" fill="#ffffff33">EXP:</text>
+<text x="720" y="643" font-family="monospace" font-size="9" fill="#00ff88">7 anos</text>
+<rect class="cursor" x="758" y="638" width="8" height="14" fill="#00ccff"/>
+</svg>
