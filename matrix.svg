@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <style>
+    rect { fill: #0d1117; }
+    text { font-family: monospace; font-size: 13px; fill: #00ff41; }
+
+    .col0  { animation: fall0  2.1s linear infinite; }
+    .col1  { animation: fall1  1.7s linear infinite; }
+    .col2  { animation: fall2  2.4s linear infinite; }
+    .col3  { animation: fall3  1.5s linear infinite; }
+    .col4  { animation: fall4  2.8s linear infinite; }
+    .col5  { animation: fall5  1.9s linear infinite; }
+    .col6  { animation: fall6  2.2s linear infinite; }
+    .col7  { animation: fall7  1.6s linear infinite; }
+    .col8  { animation: fall8  2.6s linear infinite; }
+    .col9  { animation: fall9  1.8s linear infinite; }
+    .col10 { animation: fall10 2.3s linear infinite; }
+    .col11 { animation: fall11 1.4s linear infinite; }
+    .col12 { animation: fall12 2.9s linear infinite; }
+    .col13 { animation: fall13 2.0s linear infinite; }
+    .col14 { animation: fall14 1.3s linear infinite; }
+    .col15 { animation: fall15 2.5s linear infinite; }
+    .col16 { animation: fall16 1.7s linear infinite; }
+    .col17 { animation: fall17 2.1s linear infinite; }
+    .col18 { animation: fall18 1.9s linear infinite; }
+    .col19 { animation: fall19 2.7s linear infinite; }
+
+    .head  { fill: #ffffff; }
+    .dim1  { fill: #00ff41; opacity: 0.9; }
+    .dim2  { fill: #00cc33; opacity: 0.7; }
+    .dim3  { fill: #009926; opacity: 0.5; }
+    .dim4  { fill: #006619; opacity: 0.3; }
+
+    @keyframes fall0  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall1  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall2  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall3  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall4  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall5  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall6  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall7  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall8  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall9  { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall10 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall11 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall12 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall13 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall14 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall15 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall16 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall17 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall18 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+    @keyframes fall19 { 0%{transform:translateY(-130px)} 100%{transform:translateY(130px)} }
+  </style>
+
+  <rect width="800" height="120"/>
+
+  <!-- col 0 x=10 delay=0s -->
+  <g class="col0" style="animation-delay:0s">
+    <text x="10" y="20"  class="head">ア</text>
+    <text x="10" y="35"  class="dim1">1</text>
+    <text x="10" y="50"  class="dim2">ウ</text>
+    <text x="10" y="65"  class="dim3">0</text>
+    <text x="10" y="80"  class="dim4">エ</text>
+  </g>
+  <!-- col 1 x=50 delay=0.3s -->
+  <g class="col1" style="animation-delay:0.3s">
+    <text x="50" y="20"  class="head">カ</text>
+    <text x="50" y="35"  class="dim1">0</text>
+    <text x="50" y="50"  class="dim2">ナ</text>
+    <text x="50" y="65"  class="dim3">1</text>
+    <text x="50" y="80"  class="dim4">タ</text>
+  </g>
+  <!-- col 2 x=90 delay=0.7s -->
+  <g class="col2" style="animation-delay:0.7s">
+    <text x="90" y="20"  class="head">0</text>
+    <text x="90" y="35"  class="dim1">イ</text>
+    <text x="90" y="50"  class="dim2">1</text>
+    <text x="90" y="65"  class="dim3">オ</text>
+    <text x="90" y="80"  class="dim4">0</text>
+  </g>
+  <!-- col 3 x=130 delay=0.1s -->
+  <g class="col3" style="animation-delay:0.1s">
+    <text x="130" y="20"  class="head">ハ</text>
+    <text x="130" y="35"  class="dim1">1</text>
+    <text x="130" y="50"  class="dim2">マ</text>
+    <text x="130" y="65"  class="dim3">0</text>
+    <text x="130" y="80"  class="dim4">ラ</text>
+  </g>
+  <!-- col 4 x=170 delay=1.1s -->
+  <g class="col4" style="animation-delay:1.1s">
+    <text x="170" y="20"  class="head">サ</text>
+    <text x="170" y="35"  class="dim1">0</text>
+    <text x="170" y="50"  class="dim2">1</text>
+    <text x="170" y="65"  class="dim3">ヤ</text>
+    <text x="170" y="80"  class="dim4">0</text>
+  </g>
+  <!-- col 5 x=210 delay=0.5s -->
+  <g class="col5" style="animation-delay:0.5s">
+    <text x="210" y="20"  class="head">1</text>
+    <text x="210" y="35"  class="dim1">ワ</text>
+    <text x="210" y="50"  class="dim2">0</text>
+    <text x="210" y="65"  class="dim3">ネ</text>
+    <text x="210" y="80"  class="dim4">1</text>
+  </g>
+  <!-- col 6 x=250 delay=0.9s -->
+  <g class="col6" style="animation-delay:0.9s">
+    <text x="250" y="20"  class="head">ケ</text>
+    <text x="250" y="35"  class="dim1">1</text>
+    <text x="250" y="50"  class="dim2">セ</text>
+    <text x="250" y="65"  class="dim3">0</text>
+    <text x="250" y="80"  class="dim4">テ</text>
+  </g>
+  <!-- col 7 x=290 delay=0.2s -->
+  <g class="col7" style="animation-delay:0.2s">
+    <text x="290" y="20"  class="head">0</text>
+    <text x="290" y="35"  class="dim1">ミ</text>
+    <text x="290" y="50"  class="dim2">1</text>
+    <text x="290" y="65"  class="dim3">ニ</text>
+    <text x="290" y="80"  class="dim4">0</text>
+  </g>
+  <!-- col 8 x=330 delay=1.4s -->
+  <g class="col8" style="animation-delay:1.4s">
+    <text x="330" y="20"  class="head">ヒ</text>
+    <text x="330" y="35"  class="dim1">0</text>
+    <text x="330" y="50"  class="dim2">キ</text>
+    <text x="330" y="65"  class="dim3">1</text>
+    <text x="330" y="80"  class="dim4">シ</text>
+  </g>
+  <!-- col 9 x=370 delay=0.6s -->
+  <g class="col9" style="animation-delay:0.6s">
+    <text x="370" y="20"  class="head">1</text>
+    <text x="370" y="35"  class="dim1">チ</text>
+    <text x="370" y="50"  class="dim2">0</text>
+    <text x="370" y="65"  class="dim3">リ</text>
+    <text x="370" y="80"  class="dim4">1</text>
+  </g>
+  <!-- col 10 x=410 delay=1.0s -->
+  <g class="col10" style="animation-delay:1.0s">
+    <text x="410" y="20"  class="head">フ</text>
+    <text x="410" y="35"  class="dim1">1</text>
+    <text x="410" y="50"  class="dim2">ム</text>
+    <text x="410" y="65"  class="dim3">0</text>
+    <text x="410" y="80"  class="dim4">ル</text>
+  </g>
+  <!-- col 11 x=450 delay=0.4s -->
+  <g class="col11" style="animation-delay:0.4s">
+    <text x="450" y="20"  class="head">ヌ</text>
+    <text x="450" y="35"  class="dim1">0</text>
+    <text x="450" y="50"  class="dim2">ス</text>
+    <text x="450" y="65"  class="dim3">1</text>
+    <text x="450" y="80"  class="dim4">ツ</text>
+  </g>
+  <!-- col 12 x=490 delay=1.6s -->
+  <g class="col12" style="animation-delay:1.6s">
+    <text x="490" y="20"  class="head">0</text>
+    <text x="490" y="35"  class="dim1">ユ</text>
+    <text x="490" y="50"  class="dim2">1</text>
+    <text x="490" y="65"  class="dim3">メ</text>
+    <text x="490" y="80"  class="dim4">0</text>
+  </g>
+  <!-- col 13 x=530 delay=0.8s -->
+  <g class="col13" style="animation-delay:0.8s">
+    <text x="530" y="20"  class="head">ホ</text>
+    <text x="530" y="35"  class="dim1">1</text>
+    <text x="530" y="50"  class="dim2">モ</text>
+    <text x="530" y="65"  class="dim3">0</text>
+    <text x="530" y="80"  class="dim4">ロ</text>
+  </g>
+  <!-- col 14 x=570 delay=0.05s -->
+  <g class="col14" style="animation-delay:0.05s">
+    <text x="570" y="20"  class="head">1</text>
+    <text x="570" y="35"  class="dim1">コ</text>
+    <text x="570" y="50"  class="dim2">0</text>
+    <text x="570" y="65"  class="dim3">ノ</text>
+    <text x="570" y="80"  class="dim4">1</text>
+  </g>
+  <!-- col 15 x=610 delay=1.2s -->
+  <g class="col15" style="animation-delay:1.2s">
+    <text x="610" y="20"  class="head">ソ</text>
+    <text x="610" y="35"  class="dim1">0</text>
+    <text x="610" y="50"  class="dim2">ト</text>
+    <text x="610" y="65"  class="dim3">1</text>
+    <text x="610" y="80"  class="dim4">ヲ</text>
+  </g>
+  <!-- col 16 x=650 delay=0.35s -->
+  <g class="col16" style="animation-delay:0.35s">
+    <text x="650" y="20"  class="head">0</text>
+    <text x="650" y="35"  class="dim1">ヘ</text>
+    <text x="650" y="50"  class="dim2">1</text>
+    <text x="650" y="65"  class="dim3">レ</text>
+    <text x="650" y="80"  class="dim4">0</text>
+  </g>
+  <!-- col 17 x=690 delay=0.75s -->
+  <g class="col17" style="animation-delay:0.75s">
+    <text x="690" y="20"  class="head">ン</text>
+    <text x="690" y="35"  class="dim1">1</text>
+    <text x="690" y="50"  class="dim2">ヴ</text>
+    <text x="690" y="65"  class="dim3">0</text>
+    <text x="690" y="80"  class="dim4">ッ</text>
+  </g>
+  <!-- col 18 x=730 delay=1.3s -->
+  <g class="col18" style="animation-delay:1.3s">
+    <text x="730" y="20"  class="head">1</text>
+    <text x="730" y="35"  class="dim1">ァ</text>
+    <text x="730" y="50"  class="dim2">0</text>
+    <text x="730" y="65"  class="dim3">ィ</text>
+    <text x="730" y="80"  class="dim4">1</text>
+  </g>
+  <!-- col 19 x=768 delay=0.55s -->
+  <g class="col19" style="animation-delay:0.55s">
+    <text x="768" y="20"  class="head">ォ</text>
+    <text x="768" y="35"  class="dim1">0</text>
+    <text x="768" y="50"  class="dim2">ゥ</text>
+    <text x="768" y="65"  class="dim3">1</text>
+    <text x="768" y="80"  class="dim4">ェ</text>
+  </g>
+</svg>
