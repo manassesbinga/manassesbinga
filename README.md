@@ -14,10 +14,15 @@ software engineer.
 [![linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manassescahunda)
 
 2019 → Node.js, PostgreSQL, MySQL — primeiros passos, REST APIs do zero.
+
 2020 → React, Python (Django/Flask), MongoDB — full stack consolidado.
+
 2021 → Arquitectura de software, microserviços, TypeScript, React Native.
+
 2022 → Docker, Kubernetes, GraphQL, CI/CD, AWS/Azure/GCP — containers e cloud.
+
 2023–2024 → Infraestrutura VPS, Linux avançado — servidores, redes, automação, segurança.
+
 2025–2026 → DevOps completo. Escalei plataforma interna para +5.000 veículos via UDP/TCP em produção.
 
 
