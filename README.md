@@ -1,6 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=manassesbinga.manassesbinga&color=0ea5e9&style=flat-square&logo=github)
 
-software engineer. building [koneta](https://koneta.vercel.app) — api gateway.
+software engineer. Sr.6
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manassescahunda)
 
