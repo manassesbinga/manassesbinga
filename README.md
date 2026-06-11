@@ -1,7 +1,3 @@
-Old account > https://github.com/manassescahunda
-
-New account 
-
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=manassesbinga.manassesbinga&color=0ea5e9&style=flat-square&logo=github)
 
 
