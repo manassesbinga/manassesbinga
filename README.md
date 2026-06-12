@@ -11,6 +11,7 @@ software engineer.
 
 
 
+
 [![linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manassescahunda)
 
 2019 → C# , mysql  , java ,Node.js, PostgreSQL, MySQL — primeiros passos, REST APIs do zero.
@@ -27,6 +28,9 @@ software engineer.
 
 
 https://www.dio.me/certificate/ZWDFYXNE/share
+
+
+https://www.dio.me/certificate/AJBIWOH2/share
 
 
 https://learn.microsoft.com/pt-pt/users/manassesbinga-2529/achievements/jh9xsllt?ref=https%3A%2F%2Fwww.linkedin.com%2F
