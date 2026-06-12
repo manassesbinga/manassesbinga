@@ -28,6 +28,9 @@ software engineer.
 
 https://www.dio.me/certificate/ZWDFYXNE/share
 
+
+https://learn.microsoft.com/pt-pt/users/manassesbinga-2529/achievements/jh9xsllt?ref=https%3A%2F%2Fwww.linkedin.com%2F
+
 "How will we ever know what we are truly programmed for. When you think you know everything, you realize you know nothing. This is the dilemma of growth: the more technologies you master, the more you realize how much you still don't know.
 In April 2026, I chose to selling what I already knew."
 
