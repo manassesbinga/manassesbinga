@@ -32,6 +32,7 @@ https://www.dio.me/certificate/ZWDFYXNE/share
 
 https://www.dio.me/certificate/AJBIWOH2/share
 
+https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/JH9XH6KT?sharingId=A7BDBEDE26009B61
 
 https://learn.microsoft.com/pt-pt/users/manassesbinga-2529/achievements/jh9xsllt?ref=https%3A%2F%2Fwww.linkedin.com%2F
 
