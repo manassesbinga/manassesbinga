@@ -26,6 +26,7 @@ software engineer.
 2025–2026 → DevOps completo. Escalei plataforma interna para +5.000 veículos via UDP/TCP em produção.
 
 
+https://www.dio.me/certificate/ZWDFYXNE/share
 
 "How will we ever know what we are truly programmed for. When you think you know everything, you realize you know nothing. This is the dilemma of growth: the more technologies you master, the more you realize how much you still don't know.
 In April 2026, I chose to selling what I already knew."
