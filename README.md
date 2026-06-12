@@ -30,6 +30,8 @@ software engineer.
 https://www.dio.me/certificate/ZWDFYXNE/share
 
 
+https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/CRFEYSP9?sharingId=A7BDBEDE26009B61
+
 https://www.dio.me/certificate/AJBIWOH2/share
 
 https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/JH9XH6KT?sharingId=A7BDBEDE26009B61
