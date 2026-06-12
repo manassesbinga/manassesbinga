@@ -36,6 +36,11 @@ https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/JH9X
 
 https://learn.microsoft.com/pt-pt/users/manassesbinga-2529/achievements/jh9xsllt?ref=https%3A%2F%2Fwww.linkedin.com%2F
 
+
+https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/3ZRE2XGH?sharingId=A7BDBEDE26009B61
+
+https://learn.microsoft.com/api/achievements/share/pt-pt/ManassesBinga-2529/JH9X864T?sharingId=A7BDBEDE26009B61
+
 "How will we ever know what we are truly programmed for. When you think you know everything, you realize you know nothing. This is the dilemma of growth: the more technologies you master, the more you realize how much you still don't know.
 In April 2026, I chose to selling what I already knew."
 
