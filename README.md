@@ -1,43 +1,21 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███████╗███████╗███████╗███████╗
-████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝
-██╔████╔██║███████║██╔██╗ ██║███████║███████╗███████╗█████╗  ███████╗
-██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║╚════██║╚════██║██╔══╝  ╚════██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║███████║███████╗███████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
+<img src="https://github.com/manassesbinga/profile/blob/main/matrix.svg" alt="matrix" style="position:absolute;opacity:0.15;" />
 
- ██████╗ █████╗ ██╗  ██╗██╗   ██╗███╗   ██╗██████╗  █████╗ 
-██╔════╝██╔══██╗██║  ██║██║   ██║████╗  ██║██╔══██╗██╔══██╗
-██║     ███████║███████║██║   ██║██╔██╗ ██║██║  ██║███████║
-██║     ██╔══██║██╔══██║██║   ██║██║╚██╗██║██║  ██║██╔══██║
-╚██████╗██║  ██║██║  ██║╚██████╔╝██║ ╚████║██████╔╝██║  ██║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+```
+███╗   ███╗  █████╗  ███╗   ██╗  █████╗  ███████╗ ███████╗ ███████╗ ███████╗     ██████╗  █████╗  ██╗  ██╗ ██╗   ██╗ ███╗   ██╗ ██████╗   █████╗ 
+████╗ ████║ ██╔══██╗ ████╗  ██║ ██╔══██╗ ██╔════╝ ██╔════╝ ██╔════╝ ██╔════╝    ██╔════╝ ██╔══██╗ ██║  ██║ ██║   ██║ ████╗  ██║ ██╔══██╗ ██╔══██╗
+██╔████╔██║ ███████║ ██╔██╗ ██║ ███████║ ███████╗ ███████╗ █████╗   ███████╗    ██║      ███████║ ███████║ ██║   ██║ ██╔██╗ ██║ ██║  ██║ ███████║
+██║╚██╔╝██║ ██╔══██║ ██║╚██╗██║ ██╔══██║ ╚════██║ ╚════██║ ██╔══╝   ╚════██║    ██║      ██╔══██║ ██╔══██║ ██║   ██║ ██║╚██╗██║ ██║  ██║ ██╔══██║
+██║ ╚═╝ ██║ ██║  ██║ ██║ ╚████║ ██║  ██║ ███████║ ███████║ ███████╗ ███████║    ╚██████╗ ██║  ██║ ██║  ██║ ╚██████╔╝ ██║ ╚████║ ██████╔╝ ██║  ██║
+╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═══╝ ╚═════╝  ╚═╝  ╚═╝
 ```
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=500&lines=manassesbinga;software+engineer;building+in+public)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=700&lines=Dev+Full-Stack+Pleno;Next.js+%26+React+Native+%7C+Python+%7C+Node.js;C%23+.NET+%7C+Git+%7C+SQL+%7C+Kubernetes;Hacker+Ethic+%E2%80%94+build+to+understand%2C+share+to+grow)](https://git.io/typing-svg)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=manassesbinga.manassesbinga&color=0ea5e9&style=flat-square&logo=github)
 
 </div>
-
----
-
-### `> whoami`
-
-```bash
-$ cat profile.json
-{
-  "name"     : "Manasses Cahunda",
-  "role"     : "Full-Stack Developer (Pleno)",
-  "xp"       : "7 years // 7 anos",
-  "stack"    : ["Next.js", "React Native", "Python", "Node.js", "C# .NET"],
-  "infra"    : ["Kubernetes", "Git", "SQL"],
-  "ethic"    : "Hacker Ethic — build to understand, share to grow",
-  "status"   : "building in public 🚀"
-}
-```
 
 ---
 
@@ -100,13 +78,9 @@ $ cat profile.json
 ---
 
 <div align="center">
-
-<img src="https://github.com/manassesbinga/profile/blob/main/matrix.svg" alt="matrix" />
-
 <sub><code>// 7 anos no terminal. ainda aprendendo. sempre construindo.</code></sub>
 <br/>
 <sub><code>// 7 years in the terminal. still learning. always building.</code></sub>
-
 </div>
 
 ---
