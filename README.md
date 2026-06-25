@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/manassesbinga/profile/blob/main/matrix.svg" alt="matrix" style="position:absolute;opacity:0.15;" />
 
 ```
 ███╗   ███╗  █████╗  ███╗   ██╗  █████╗  ███████╗ ███████╗ ███████╗ ███████╗     ██████╗  █████╗  ██╗  ██╗ ██╗   ██╗ ███╗   ██╗ ██████╗   █████╗ 
